@@ -6,4 +6,4 @@ const prepend = petsArray.unshift("Odie")
 
 const removeLast = petsArray.pop()
 
-const RemoveFirst = petsArray
+const RemoveFirst = petsArray.shift()
