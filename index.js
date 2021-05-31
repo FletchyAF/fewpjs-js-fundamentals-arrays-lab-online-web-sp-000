@@ -1,10 +1,1 @@
-const petsArray = ["Milo", "Otis", "Garfield"]
-
-const append = petsArray
-
-const prepend = petsArray
-
-const removeLast = petsArray
-
-const removeFirst = petsArray
-
+const append = ["Milo", "Otis", "Garfield"]
