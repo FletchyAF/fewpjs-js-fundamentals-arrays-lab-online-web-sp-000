@@ -8,10 +8,3 @@ const removeLast = petsArray
 
 const removeFirst = petsArray
 
-append.push("Odie")
-
-prepend.unshift("Odie")
-
-removeLast.pop()
-
-removeFirst.shift()
