@@ -1,9 +1,17 @@
 const petsArray = ["Milo", "Otis", "Garfield"]
 
-const append = petsArray.push("Odie")
+const append = petsArray
 
-const prepend = petsArray.unshift("Odie")
+const prepend = petsArray
 
-const removeLast = petsArray.pop()
+const removeLast = petsArray
 
-const removeFirst = petsArray.shift()
+const removeFirst = petsArray
+
+append.push("Odie")
+
+prepend.unshift("Odie")
+
+removeLast.pop()
+
+removeFirst.shift()
