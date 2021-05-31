@@ -1,6 +1,6 @@
 const petsArray = ["Milo", "Otis", "Garfield"]
 
-const append = petsArray.push("Odie")
+const append = petsArray.unshift("Odie")
 
 const prepend = petsArray
 
